@@ -85,6 +85,9 @@ public class PremiumRides {
             this.distance = distance;
             this.time = time;
             this.rideType = rideType;
+            
         }
     }
 }
+
+
