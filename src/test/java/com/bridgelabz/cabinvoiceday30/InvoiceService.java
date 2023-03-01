@@ -73,5 +73,4 @@ public class InvoiceService {
             this.time = time;
         }
     }
-
 }
