@@ -1,5 +1,4 @@
 package com.bridgelabz.cabinvoiceday30;
-
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
@@ -45,6 +44,4 @@ public class CabInvoiceGeneratorTest {
 
         Assert.assertEquals(expectedinvoicesummary,summary);
     }
-
-
 }
