@@ -23,5 +23,4 @@ public class InvoiceSummary {
                 && noOfRides == other.noOfRides
                 && Double.doubleToLongBits(totalFare) == Double.doubleToLongBits(other.totalFare);
     }
-
 }
