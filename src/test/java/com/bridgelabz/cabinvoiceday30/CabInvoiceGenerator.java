@@ -30,5 +30,4 @@ public class CabInvoiceGenerator {
         }
         return new InvoiceSummary(rides.length,totalFare);
     }
-
 }
